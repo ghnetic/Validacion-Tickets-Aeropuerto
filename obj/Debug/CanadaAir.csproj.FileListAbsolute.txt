@@ -1,0 +1,87 @@
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe.config
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\bin\Debug\CanadaAir.pdb
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Inicio.resources
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Properties.Resources.resources
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.exe
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.pdb
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Acciones.resources
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Historial.resources
+C:\Users\DELL\source\repos\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Registrar.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe.config
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\bin\Debug\CanadaAir.pdb
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.AssemblyReference.cache
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Acciones.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Historial.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Inicio.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Properties.Resources.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Registrar.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.GenerateResource.cache
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CoreCompileInputs.cache
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.exe
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\TAREAS\CanadaAir\CanadaAir\obj\Debug\CanadaAir.pdb
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe.config
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\bin\Debug\CanadaAir.pdb
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.AssemblyReference.cache
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Acciones.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Historial.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Inicio.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Properties.Resources.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Registrar.resources
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.GenerateResource.cache
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CoreCompileInputs.cache
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.exe
+E:\UNAH\2021\IIIPAC2021\BASES DE DATOS II\UNIDAD I\PROYECTO\CanadaAir\CanadaAir\obj\Debug\CanadaAir.pdb
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe.config
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\CanadaAir.pdb
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\EntityFramework.dll
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\EntityFramework.SqlServer.dll
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.dll
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.EF6.dll
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.Linq.dll
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\EntityFramework.xml
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\EntityFramework.SqlServer.xml
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.xml
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csprojAssemblyReference.cache
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Acciones.resources
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Historial.resources
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Inicio.resources
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Properties.Resources.resources
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Registrar.resources
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.GenerateResource.cache
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CoreCompileInputs.cache
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CopyComplete
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.exe
+F:\CanadaAir\CanadaAir\CanadaAir\CanadaAir\obj\Debug\CanadaAir.pdb
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe.config
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\CanadaAir.pdb
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Acciones.resources
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Historial.resources
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Inicio.resources
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Properties.Resources.resources
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.Registrar.resources
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.csproj.CopyComplete
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.exe
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.pdb
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\CanadaAir.exe.manifest
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\bin\Debug\CanadaAir.application
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.exe.manifest
+C:\Users\DELL\Downloads\PROYECTO BASES II\CanadaAir\CanadaAir\obj\Debug\CanadaAir.application
